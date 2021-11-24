@@ -1,0 +1,15 @@
+*{ 
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 20px;
+  background-color: $primary-color;
+  color: $quaternary-color;
+  font-family: $font-one;
+  // display: flex;
+  // flex-direction: column;
+  // justify-content: center;
+  // align-items: center;
+}
